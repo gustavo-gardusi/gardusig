@@ -9,7 +9,8 @@
 
 - **[resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
 - **[road2senior](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews.
-    ![HackerCup](./hacker-cup.jpg)
+
+![HackerCup](./hacker-cup.jpg)
 
 ## Projects
 
@@ -17,8 +18,6 @@
     ![SimpleNodeService](https://raw.githubusercontent.com/gardusig/simpleNodeService/refs/heads/main/images/system-design.png)
 - **[Journaling](https://github.com/gardusig/journaling):** Automates the creation and management of journal documents in Google Drive.
     ![Journaling](https://raw.githubusercontent.com/gardusig/journaling/main/system-design.png)
-- **[Stock Manager](https://github.com/gardusig/stockManager):** An application that manages stock transactions and generates detailed reports within Google Sheets.
-    ![StockManager](https://raw.githubusercontent.com/gardusig/stock-manager/main/system-design.png)
 
 ## Scripts
 
