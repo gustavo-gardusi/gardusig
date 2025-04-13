@@ -10,7 +10,7 @@
 - **[resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
 - **[road2senior](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews.
 
-![HackerCup](./hacker-cup.jpg)
+![HackerCup](https://raw.githubusercontent.com/gardusig/competitive-programming/refs/heads/main/hacker-cup.jpg)
 
 ## Projects
 
