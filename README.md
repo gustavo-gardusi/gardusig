@@ -1,10 +1,3 @@
-## Summary
-
-- [Summary](#summary)
-- [Interviewing](#interviewing)
-- [Projects](#projects)
-- [Scripts](#scripts)
-
 ## Interviewing
 
 - **[resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
@@ -18,8 +11,4 @@
     ![SimpleNodeService](https://raw.githubusercontent.com/gardusig/simpleNodeService/refs/heads/main/images/system-design.png)
 - **[Journaling](https://github.com/gardusig/journaling):** Automates the creation and management of journal documents in Google Drive.
     ![Journaling](https://raw.githubusercontent.com/gardusig/journaling/main/system-design.png)
-
-## Scripts
-
 - **[Bookmarklets](https://github.com/gardusig/bookmarklets):** A set of bookmarklet scripts designed to automate tasks directly within the browser.
-- **[Web Driver](https://github.com/gardusig/web-driver-scripts):** A collection of Python scripts leveraging Selenium and Chromium to automate tasks within a web browser.
