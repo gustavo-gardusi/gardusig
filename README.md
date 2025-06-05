@@ -18,5 +18,3 @@
 - **[problem-solving](https://github.com/gardusig/problem-solving):** Algorithms, data structures, solutions and code templates
 - **[resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements
 - **[road2senior](https://github.com/gardusig/road2senior/):** My (in-progress) road to senior level
-
-![HackerCup](https://raw.githubusercontent.com/gardusig/competitive-programming/refs/heads/main/hacker-cup.jpg)
