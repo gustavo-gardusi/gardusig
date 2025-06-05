@@ -1,22 +1,22 @@
 ## Projects
 
-- **[crowler](https://github.com/gardusig/crowler):** in-progress
+- **[crowler](https://github.com/gardusig/crowler):** CLI toolkit for managing prompts, files, and AI-powered workflows
 - **[front-end repo](https://github.com/gardusig/character-editor):** in-progress
 - **[back-end repo](https://github.com/gardusig/simpleNodeService):** in-progress
 
 ### Google AppsScript
-- **[shit-db](https://github.com/gardusig/shit-db):** in-progress
-- **[toilet-paper](https://github.com/gardusig/toilet-paper):** in-progress
-- **[journaling](https://github.com/gardusig/journaling):** in-progress
+- **[journaling](https://github.com/gardusig/journaling):** Google Apps Script to manage journaling in Google Docs
+- **[shit-db](https://github.com/gardusig/shit-db):** Google Apps Script library to manage Google Sheets as Javascript objects
+- **[toilet-paper](https://github.com/gardusig/toilet-paper):** Google Apps Script library to manage documents in Google Drive
 
 ### Scripts
-- **[shell-toolbox](https://github.com/gardusig/shell-toolbox):** in-progress
-- **[bookmarklets](https://github.com/gardusig/bookmarklets):** in-progress
+- **[shell-toolbox](https://github.com/gardusig/shell-toolbox):** Zero-to-productive shell setup
+- **[bookmarklets](https://github.com/gardusig/bookmarklets):** Bookmarklets to run JS scripts within a browser
 
 ## Interviewing
 
-- **[resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
-- **[road2senior](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews.
-- **[competitive-programming](https://github.com/gardusig/competitive-programming):** in-progress
+- **[problem-solving](https://github.com/gardusig/problem-solving):** Algorithms, data structures, solutions and code templates
+- **[resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements
+- **[road2senior](https://github.com/gardusig/road2senior/):** My (in-progress) road to senior level
 
 ![HackerCup](https://raw.githubusercontent.com/gardusig/competitive-programming/refs/heads/main/hacker-cup.jpg)
