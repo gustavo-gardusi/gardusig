@@ -3,6 +3,7 @@
 - **[crowler](https://github.com/gardusig/crowler):** CLI toolkit for managing prompts, files, and AI-powered workflows
 - **[front-end repo](https://github.com/gardusig/character-editor):** in-progress
 - **[back-end repo](https://github.com/gardusig/simpleNodeService):** in-progress
+- **[red-brick](https://github.com/gardusig/red-brick):** in-progress
 
 ### Scripts
 - **[shell-toolbox](https://github.com/gardusig/shell-toolbox):** Zero-to-productive shell setup
@@ -12,7 +13,6 @@
 - **[journaling](https://github.com/gardusig/journaling):** Google Apps Script to manage journaling in Google Docs
 - **[shit-db](https://github.com/gardusig/shit-db):** Google Apps Script library to manage Google Sheets as Javascript objects
 - **[toilet-paper](https://github.com/gardusig/toilet-paper):** Google Apps Script library to manage documents in Google Drive
-
 
 ## Interviewing
 
