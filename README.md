@@ -1,9 +1,7 @@
 ## Projects
 
 - **[crowler](https://github.com/gardusig/crowler):** CLI toolkit for managing prompts, files, and AI-powered workflows
-- **[front-end repo](https://github.com/gardusig/character-editor):** in-progress
-- **[back-end repo](https://github.com/gardusig/simpleNodeService):** in-progress
-- **[red-brick](https://github.com/gardusig/red-brick):** in-progress
+- **[red-brick](https://github.com/gardusig/red-brick):** Automated investment fund designed to provide income through compound growth
 
 ### Scripts
 - **[shell-toolbox](https://github.com/gardusig/shell-toolbox):** Zero-to-productive shell setup
