@@ -3,7 +3,7 @@
 - **[crowler](https://github.com/gardusig/crowler):** CLI toolkit for managing prompts, files, and AI-powered workflows
 
 ### Scripts
-- **[shell-toolbox](https://github.com/gardusig/shell-toolbox):** Zero-to-productive shell setup
+- **[shell-toolbox](https://github.com/gardusig/shell-toolbox):** to get a productive shell setup
 - **[tampermonkey](https://github.com/gardusig/tampermonkey):** to enhance or customize websites
 
 ### Google AppsScript
