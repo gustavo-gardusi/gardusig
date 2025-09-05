@@ -13,7 +13,6 @@
 
 ## Interviewing
 
-- **[problem-solving](https://github.com/gardusig/problem-solving)**
+- **[resume](./resume/resume.pdf)**
 - **[system-design](https://github.com/gardusig/system-design)** 
-
-![resume](./resume/resume.pdf)
+- **[problem-solving](https://github.com/gardusig/problem-solving)**
