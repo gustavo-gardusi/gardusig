@@ -17,5 +17,5 @@
 
 ### Google AppsScript
 - **[journaling](https://github.com/gardusig/journaling):** to manage journaling in Google Docs
-- **[shit-db](https://github.com/gardusig/shit-db):** to manage Google Sheets as Javascript objects
 - **[toilet-paper](https://github.com/gardusig/toilet-paper):** to manage documents in Google Drive
+- **[shit-db](https://github.com/gardusig/shit-db):** to manage Google Sheets as Javascript objects
