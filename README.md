@@ -16,6 +16,6 @@
 - **[tampermonkey](https://github.com/gardusig/tampermonkey):** to enhance or customize websites
 
 ### Google AppsScript
-- **[journaling](https://github.com/gardusig/journaling):** to manage journaling in Google Docs
+- **[journaling](https://github.com/gardusig/journaling):** to manage weekly journal in Google Docs
 - **[toilet-paper](https://github.com/gardusig/toilet-paper):** to manage documents in Google Drive
 - **[shit-db](https://github.com/gardusig/shit-db):** to manage Google Sheets as Javascript objects
