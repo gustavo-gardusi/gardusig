@@ -1,0 +1,36 @@
+name: Build and Publish Resume PDF
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "resume.tex"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y texlive-full latexmk
+
+      - name: Build PDF
+        run: |
+          latexmk -pdf -interaction=nonstopmode -halt-on-error resume.tex
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload PDF to Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: resume.pdf
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
