@@ -10,22 +10,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Install LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y texlive-full latexmk
-
-      - name: Build PDF
-        run: |
-          latexmk -pdf -interaction=nonstopmode -halt-on-error resume.tex
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+      - name: Compile LaTeX
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: resume.tex
 
       - name: Upload PDF to Pages artifact
         uses: actions/upload-pages-artifact@v4
