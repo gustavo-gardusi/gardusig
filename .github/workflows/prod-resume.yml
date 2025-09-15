@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "resume.tex"
 
 jobs:
   build:
@@ -26,7 +24,7 @@ jobs:
         run: |
           mv resume.pdf publish-pages/
 
-      - name: Upload PDF to Pages artifact
+      - name: Upload to pages
         uses: actions/upload-pages-artifact@v4
         with:
           path: publish-pages
