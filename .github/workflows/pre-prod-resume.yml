@@ -23,7 +23,7 @@ jobs:
           latexmk -pdf -interaction=nonstopmode -halt-on-error resume.tex
 
       - name: Upload PDF artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: resume-preview
           path: resume.pdf
