@@ -13,15 +13,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create folder for publishing pages
+        run: |
+          mkdir publish-pages
+
       - name: Compile LaTeX
         uses: xu-cheng/latex-action@v4
         with:
           root_file: resume.tex
 
+      - name: Move PDF into publishing folder
+        run: |
+          mv resume.pdf publish-pages/
+
       - name: Upload PDF to Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: out/resume.pdf
+          path: publish-pages
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
