@@ -25,8 +25,8 @@
     {\LARGE \textbf{Gustavo Gardusi}} \\[1.00em]
     {\small
         \begin{minipage}{0.75\textwidth}
-        \href{mailto:gustavo.gardusi@gmail.com}{gustavo.gardusi@gmail.com} \hfill
         \href{https://github.com/gardusig}{github.com/gardusig} \hfill
+        \href{mailto:gustavo.gardusi@gmail.com}{gustavo.gardusi@gmail.com} \hfill
         \href{https://www.linkedin.com/in/gardusig}{linkedin.com/in/gardusig}
     \end{minipage}}
 \end{center}
@@ -39,18 +39,18 @@
     \\ Software Development Engineer II
     \hfill \textit{May 2025 – Sep 2025}
 \begin{itemize}
-    \item Expanded \textbf{Amazon Connect} to support Tokyo and Osaka, enabling automated \textbf{traffic redirection} during \textbf{outages}.
-    \item Updated workflows to \textbf{replicate resources} to a user-defined \textbf{paired region} upon \textbf{event-driven updates}, with automatic \textbf{DNS records propagation}. Used CDK, CloudFormation, Route 53, EventBridge, Step Functions, Aurora PostgreSQL.
+    \item Expanded \textbf{Amazon Connect} to support Tokyo and Osaka, providing \textbf{automated traffic redirection} during \textbf{outages}.
+    \item Updated \textbf{workflows} to \textbf{replicate resources} to a new paired region, \textbf{triggered} on event-driven \textbf{stack changes}, with automatic DNS records propagation. Used CDK, CloudFormation, Route 53, EventBridge, Step Functions, Aurora PostgreSQL.
 \end{itemize}
 
 \textbf{Amazon (AWS)}
-    \hfill São Paulo, SP, Brazil 
+    \hfill Sao Paulo, SP, Brazil 
     \\ Software Development Engineer II
     \hfill \textit{Nov 2024 – May 2025}
 \begin{itemize}
-    \item Launched the \textbf{Skill Builder} public \textbf{profile page} with a beautiful UI built in Tailwind CSS and TypeScript, displaying \textbf{user progress data} from game-based \textbf{learning modules}. Used Cognito, CloudFront, API Gateway, Lambda, SQS, DynamoDB.
-    \item Enabled users to \textbf{share} achievements on \textbf{LinkedIn} with a badge \textbf{image preview} through server-rendered meta tags.
-    \item Enhanced the internal \textbf{game asset release} tool with \textbf{asynchronous workflows} and \textbf{front-end polling} for progress.
+    \item Enhanced the internal \textbf{game asset release tool} with asynchronous \textbf{queue consumption} and \textbf{front-end poll} for progress.
+    \item Launched the \textbf{Skill Builder} public \textbf{profile page}, displaying user \textbf{progress data} from \textbf{game-based learning} modules, with a beautiful UI built in Tailwind CSS and TypeScript. Used Cognito, CloudFront, API Gateway, Lambda, SQS, DynamoDB.
+    \item Enabled users to \textbf{share achievements} on \textbf{LinkedIn} with a badge \textbf{image preview} through server-rendered meta tags.
 \end{itemize}
 
 
@@ -59,28 +59,30 @@
     \\ Software Engineer (contractor)
     \hfill \textit{Jan 2022 – Jul 2023}
 \begin{itemize}
-    \item Developed \textbf{cross-language SDKs} (Python, Go, Java, C\#, JavaScript) for the Conductor \textbf{workflow orchestration} platform. Standardized \textbf{interfaces} and \textbf{documentation} with examples, delivered core \textbf{features} with automated integration \textbf{tests}.
-    \item Created a \textbf{long-running} custom \textbf{thread pool} per worker to periodically \textbf{poll} for \textbf{workflow tasks} in \textbf{batches}. Spawned a new thread for each polled task, making \textbf{parallel} HTTP/gRPC \textbf{requests} to \textbf{upload results} after done processing.
-    \item Reduced \textbf{support tickets} by \textbf{75\%} and improved \textbf{onboarding experience} with customer feedback and usage metrics.
+    \item Created \textbf{cross-language SDKs} (Python, Go, Java, C\#, JavaScript) for the Conductor \textbf{workflow orchestration} platform. Standardized interfaces and documentation with examples, delivered core features with automated integration tests.
+    \item Improved workflow \textbf{throughput} by \textbf{20\%} with a \textbf{long-running thread pool} per \textbf{worker}, to periodically \textbf{poll} for workflow \textbf{tasks} in \textbf{batches}, then start a thread per polled task, to process and upload results, making \textbf{parallel} HTTP/gRPC \textbf{requests}.
+    \item Contributed to \textbf{\href{https://github.com/Netflix/conductor/commit/a13706fc78a3dc040593fd06ae6d9bfc8a7768cf}{Netflix OSS}} by adding \textbf{missing} message \textbf{acknowledgment requests} after \textbf{batch requests} on the server.
 \end{itemize}
 
 
 \textbf{Amazon (.com.br)}
-    \hfill São Paulo, SP, Brazil 
+    \hfill Sao Paulo, SP, Brazil 
     \\ Software Development Engineer II
     \hfill \textit{Apr 2021 – Jan 2022}
 \begin{itemize}
-    \item Resized the \textbf{EC2 fleet} for \textbf{invoice services} ahead of Black Friday by using the expected \textbf{peak usage} divided by the \textbf{maximum requests} a single host could sustain. Based on historical \textbf{load tests} integrated into the deployment pipeline.
-    \item Extended Java microservices and the React UI to handle state-specific \textbf{tax regulations} for \textbf{FBA sellers} in \textbf{Brazil}. 
+    \item Resized the \textbf{EC2 fleet} for \textbf{invoice services} ahead of \textbf{Black Friday} using the expected \textbf{peak usage} and the \textbf{maximum requests} a single \textbf{host} could \textbf{sustain} on average. Based on historical \textbf{load tests} integrated into the deployment pipeline.
+    \item Extended Java \textbf{microservices} and the React \textbf{UI} to show state-specific \textbf{invoice expiration dates} for \textbf{FBA sellers} in \textbf{Brazil}.
+    \item Created targeted \textbf{alarms} and a concise \textbf{runbook}, with a \textbf{cleanup script} to reduce on-call tickets, using \textbf{disk usage metrics}.
 \end{itemize}
 
 \textbf{Beyond}
-    \hfill São Paulo, SP, Brazil 
-    \\ Software Engineer
+    \hfill Sao Paulo, SP, Brazil 
+    \\ Software Engineer (contractor)
     \hfill \textit{Sep 2019 – Apr 2021}
 \begin{itemize}
-    \item Maintained a \textbf{HFT} system to process \textbf{hundreds} of \textbf{orders} per \textbf{second}. Used C++, WebSocket, and FIX, hosted on EC2.
-    \item Implemented Java \textbf{APIs} and Python \textbf{ETL} to stream \textbf{1 GB} of stock market data per day. Used API Gateway, Lambda, S3.
+    \item Built a \textbf{matching engine} to reproduce \textbf{stock exchange behavior} with FIX and to validate \textbf{strategies} through \textbf{backtests}.
+    \item Maintained a \textbf{HFT} application running during trading day, to \textbf{send} hundreds of \textbf{orders} per second. Used C++, WebSocket.
+    \item Implemented Java \textbf{APIs} and Python \textbf{ETL} to \textbf{receive} 1 GB of daily \textbf{stock market data}. Used API Gateway, Lambda, and S3.
 \end{itemize}
 
 \textbf{Algar (Telecom)}
@@ -88,27 +90,29 @@
     \\ Software Engineer
     \hfill \textit{Oct 2017 – Sep 2019}
 \begin{itemize}
-    \item Built Python scripts to \textbf{periodically query} hundreds of \textbf{router's metadata} and keep the SQL database up to date.
-    \item Introduced \textbf{parallel execution} of router \textbf{management commands}, improving operational efficiency by \textbf{75\%}.
+    \item Built Python \textbf{scripts} to periodically \textbf{query} hundreds of router's \textbf{metadata} and keep the SQL database \textbf{up to date}.
+    \item Introduced \textbf{parallel execution} of router management \textbf{commands}, improving \textbf{operational efficiency} by 80\%.
 \end{itemize}
 
 % Education
-\section*{Academic Background}
+\section*{Education}
 
 \textbf{Federal University of Uberlandia} 
     \hfill Uberlandia, MG, Brazil
     \\Bachelor of Science in Computer Science (Incomplete)
     \hfill \textit{2014 – 2022}
 \begin{itemize}
-    \item Focused on algorithms, data structures, and competitive programming; strong problem-solving foundations.
+    \item Focused on algorithms and data structures; strong \textbf{problem-solving} foundations.
 \end{itemize}
 
 % Awards
-\section*{Competitive Programming}
+\section*{Awards \& Competitive Programming}
 \begin{itemize}
-    \item \textbf{\href{https://icpc.global/ICPCID/SP7WIXMME8B8}{ICPC}:} 4× Latin America Regional Finalist; highest rank: \textbf{16th/1,000+} teams.
-    \item \textbf{\href{https://codeforces.com/profile/gardusig}{Codeforces} | \href{https://leetcode.com/u/ggardusi/}{LeetCode}:} Ranked in the top \textbf{10\%} worldwide among \textbf{100,000+} users.
-    \item \textbf{\href{https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/490890632182886}{Hacker Cup}:} 3× placed in the top \textbf{2,000} worldwide; best rank: \textbf{467/30,000+} participants.
+    \item \textbf{\href{https://icpc.global/ICPCID/SP7WIXMME8B8}{ICPC}:} 4× Latin America Regional \textbf{Finalist}; highest rank: \textbf{16th/1,000+} teams.
+    \item \textbf{Hacker Cup:} 3× placed in the top \textbf{2,000} worldwide ( \href{https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/490890632182886}{2023}, \href{https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/490890632182886}{2022}, \href{https://www.facebook.com/codingcompetitions/hacker-cup/2021/certificate/490890632182886}{2021}); best: \textbf{467/30,000+}.
+    \item \textbf{\href{https://www.codechef.com/users/gardusig}{CodeChef}} | \textbf{\href{https://codeforces.com/profile/gardusig}{Codeforces} | \href{https://leetcode.com/u/ggardusi/}{LeetCode}:} Ranked in the top \textbf{10\%} worldwide among \textbf{100,000+} users.
+
+    
 \end{itemize}
 
 \end{document}
