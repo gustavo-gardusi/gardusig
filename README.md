@@ -2,7 +2,7 @@
 
 - **[resume](https://gardusig.github.io/gardusig/resume.pdf)**
 - **[problem-solving](https://github.com/gardusig/problem-solving):** implementations of various algorithms and data structures
-- **[system-design](https://github.com/gardusig/system-design):** personal training ground for system design mastery
+- **[system-design](https://github.com/gardusig/system-design):** personal training ground for real-world scalability challenges and architectural trade-offs
 
 ## Projects
 
