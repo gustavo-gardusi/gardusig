@@ -6,6 +6,10 @@
 
 ## Projects
 
+- **[yugioh](https://github.com/gardusig/yugioh):** to build strategic decks for the Yu-Gi-Oh! The Sacred Cards video game
+
+## Scripts
+
 - **[gas-toolbox](https://github.com/gardusig/shell-toolbox):** to use Google workspace through Apps Script utility functions
 - **[tampermonkey](https://github.com/gardusig/tampermonkey):** to enhance or customize websites through JavaScript programs
-- **[yugioh](https://github.com/gardusig/yugioh):** to build strategic decks for the Yu-Gi-Oh! The Sacred Cards video game
+- 
