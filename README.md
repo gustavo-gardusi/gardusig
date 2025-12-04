@@ -6,7 +6,7 @@
 
 ## Projects
 
-- **[yugioh](https://github.com/gardusig/yugioh):** to build strategic decks for the Yu-Gi-Oh! The Sacred Cards video game
+- **[yugioh](https://github.com/gardusig/yugioh):** full-stack web application for browsing all YuGiOh cards
 
 ## Scripts
 
