@@ -6,7 +6,7 @@
 
 ## Projects
 
-- **[yugioh](https://github.com/gardusig/yugioh):** full-stack web application for browsing all YuGiOh cards
+- **[yugioh](https://github.com/gardusig/yugioh):** full-stack web application for browsing YuGiOh cards
 
 ## Scripts
 
