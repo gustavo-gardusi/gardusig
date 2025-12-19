@@ -2,7 +2,6 @@
 
 - **[resume](https://gardusig.github.io/gardusig/resume.pdf):** professional background, skills, and accomplishments
 - **[problem-solving](https://github.com/gardusig/problem-solving):** implementations of various algorithms and data structures
-- **[system-design](https://github.com/gardusig/system-design):** training for real-world scalability challenges and architectural trade-offs
 
 ## Projects
 
