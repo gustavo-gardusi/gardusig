@@ -1,6 +1,6 @@
 ## Interviewing
 
-- **[resume](https://gardusig.github.io/gardusig/resume.pdf):** professional background, skills, and accomplishments
+- **[resume](https://gardusig.github.io/interviewing/resume.pdf):** professional background, skills, and accomplishments
 - **[problem-solving](https://github.com/gardusig/problem-solving):** implementations of various algorithms and data structures
 - **[stories](https://github.com/gardusig/interviewing/blob/main/stories.md)**: preparation containing structured stories and behavioral examples
 
