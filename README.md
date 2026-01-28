@@ -10,5 +10,5 @@
 
 ## Scripts
 
-- **[gas-toolbox](https://github.com/gardusig/shell-toolbox):** to use Google workspace through Apps Script utility functions
+- **[gas-toolbox](https://github.com/gardusig/gas-toolbox):** to use Google workspace through Apps Script utility functions
 - **[tampermonkey](https://github.com/gardusig/tampermonkey):** to enhance or customize websites through JavaScript programs
