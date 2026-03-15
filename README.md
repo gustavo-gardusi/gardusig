@@ -10,5 +10,6 @@
 
 ## Scripts
 
+- **[cursor-skills](https://github.com/gardusig/cursor-skills):** sync Cursor IDE agent skills between `~/.cursor` and the repo
 - **[gas-toolbox](https://github.com/gardusig/gas-toolbox):** to use Google workspace through Apps Script utility functions
 - **[tampermonkey](https://github.com/gardusig/tampermonkey):** to enhance or customize websites through JavaScript programs
